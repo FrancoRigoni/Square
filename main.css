@@ -13,14 +13,14 @@
 
 #content {
     background-color: aquamarine;
-    width: 200px;
+    width: 800px;
     display: flex;
     flex-wrap: wrap;
 }
 
 .square {
-    width: 5px;
-    height: 5px;
+    width: 10px;
+    height: 10px;
     background-color: rgb(255, 255, 255);
 }
 

@@ -3,7 +3,7 @@ div = document.createElement("div");
 
 array = ["red", "blue", "yellow"];
 
-for (let i = 0; i < 600; i++) {
+for (let i = 0; i < 3600; i++) {
     div = document.createElement("div")
     cuadro.children[i].classList.add("square")
     cuadro.appendChild(div)
